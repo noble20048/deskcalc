@@ -1,8 +1,8 @@
-#🧮 DeskCalc: The "Not-Yet-Casio"
+   #🧮 DeskCalc: The "Not-Yet-Casio"
 
- ##Welcome to DeskCalc, the calculator that currently knows how to do basic math and nothing else(well literally).
+   ##Welcome to DeskCalc, the calculator that currently knows how to do basic math and nothing else(well literally).
 
-__The Origin Story (TADAA)
+   __The Origin Story (TADAA)
 
 I was told I couldn't build anything without AI holding my hand. So, I used AI to hold my hand while I built this. Take that, everyone!
  ##What it can do (for now)
