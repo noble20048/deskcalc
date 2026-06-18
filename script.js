@@ -1,20 +1,19 @@
-const display = document.getElementById('display');
+//CALCULATOR PGM
+const display = document.getElementById("display");
 
 function appendToDisplay(input) {
     display.value += input;
 }
 
-function clearDisplay() {
+function clearScreen() {
     display.value = "";
 }
-function deleteLast() {
-    display.value = display.value.slice(0, -1)
-}
+
 function calculate() {
     try {
-        // eval() takes the string "2+2" and turns it into the number 4
         display.value = eval(display.value);
-    } catch (e) {
-        display.value = "Error";
+    }
+    catch (error) {
+        display.value = "error";
     }
 }
